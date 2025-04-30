@@ -8,7 +8,7 @@ Para mais informações acesse:
 ![Banner](IMG_20250418_185202.png )
 
 
-![Banner](Screenshot 2025-04-20 at 12-02-18 ShellGren Copilot V2.png_) 
+![Banner](IMG_20250418_185202.png ) 
 
 O modelo será disponível em : CLI, WEB E APK! 
 
