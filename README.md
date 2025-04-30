@@ -2,13 +2,11 @@
 
 ShellGren é um assistente hacker EM CLI com IA integrada, voz, integração com Telegram, Discord e um banco de conhecimento offline (`qa.txt`).
 ## O modelo ainda não está disponível! 
-Para mais informações acesse:
-
+Para mais informações acesse:👇
+https://shellgren.blogspot.com
 
 ![Banner](IMG_20250418_185202.png )
 
-
-![Banner](Screenshot 2025-04-20 at 12-02-18 ShellGren Copilot V2.png) 
 
 O modelo será disponível em : CLI, WEB E APK! 
 
@@ -35,7 +33,7 @@ chmod +x shellbot2.sh
 ```
 Antis de executar Cria um arquivo .env
 ```
-Agora execute
+O arquivo.env deve estar no mesmo diretório 
 ```
 Agora execute 
 ```
