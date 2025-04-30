@@ -3,7 +3,7 @@
 ShellGren é um assistente hacker EM CLI com IA integrada, voz, integração com Telegram, Discord e um banco de conhecimento offline (`qa.txt`).
 
 
-![Banner](Screenshot_20250430-230955.png )
+![Banner](IMG_20250418_185202.png )
 
 ## Funcionalidades
 - Execução de comandos
