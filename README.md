@@ -5,6 +5,8 @@ ShellGren é um assistente hacker EM CLI com IA integrada, voz, integração com
 Para mais informações acesse:👇
 https://shellgren.blogspot.com
 
+
+
 ![Banner](IMG_20250418_185202.png )
 
 
