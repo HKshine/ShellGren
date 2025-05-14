@@ -1,7 +1,8 @@
-# SHELLGREN! 
+# BEM-VINDO ao repositório oficial do SHELLGREN! 
 
 ShellGren é um assistente hacker EM CLI com IA integrada, voz, integração com Telegram, Discord e um banco de conhecimento offline (`qa.txt`).
-## O modelo ainda não está disponível! 
+## O modelo já está disponível!
+
 Para mais informações acesse:👇
 https://shellgren.blogspot.com
 
@@ -10,7 +11,9 @@ https://shellgren.blogspot.com
 ![Banner](IMG_20250418_185202.png )
 
 
-O modelo será disponível em : CLI, WEB E APK! 
+Primeira versão em CLI está liberado. 
+
+O modelo está disponível em : CLI, WEB E APK! 
 
 ## Funcionalidades
 - Execução de comandos
@@ -31,14 +34,20 @@ Sudo gem install colcat
 ```
 # da permissão de execução
 ```bash
-chmod +x shellbot2.sh
+chmod +x IA.sh
 ```
-Antis de executar Cria um arquivo .env
+Antis de executar Cria um arquivo .env. 
+O arquivo.env deve estar no mesmo diretório
 ```
-O arquivo.env deve estar no mesmo diretório 
+nano  env
 ```
-Agora execute 
+Agora antes de executar mova
 ```
-./shellbot2.sh
+sudo mv IA.sh /usr/.local/bin/ ShellGren 
 ```
+Agora execute
+```
+ShellGren
+```
+
 🤝 Contribuição, sinta-se à vontade para contribuir com melhorias!...
