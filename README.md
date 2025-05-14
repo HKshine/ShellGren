@@ -21,6 +21,7 @@ Primeira versão em CLI está liberado.
 O modelo está disponível em : CLI, WEB E APK! 
 
 ## Funcionalidades
+- Assistente de serviço
 - Execução de comandos
 - Respostas por voz
 - Integração com Telegram & Discord
@@ -32,9 +33,9 @@ O modelo está disponível em : CLI, WEB E APK!
 pkg install curl jq espeak figlet toilet ruby -y
 gem install lolcat
 ```
-## Innstalação via Linux 
+## Innstalação via Linux/MacOS
 ```
-Apt install curl jq espeak figlet toilet ruby - y
+sudo apt install curl jq espeak figlet toilet ruby - y
 Sudo gem install colcat
 ```
 # clone o repositório 
@@ -64,6 +65,6 @@ Termux execute após a clonagem e dar permissão de execução
 IA.sh
 ```
 
-💻 O MODELO USA API DA ARCEE, o motor não é meu de pesquisa e resposta. 
+💻 O MODELO USA API DA ARCEE, o motor de pesquisa e resposta não é meu(API). 
 
 🤝 Contribuição, sinta-se à vontade para contribuir com melhorias!...
