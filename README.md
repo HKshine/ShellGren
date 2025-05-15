@@ -1,4 +1,4 @@
-# BEM-VINDO ao repositório oficial do SHELLGREN! 
+# BEM-VINDO ao repositório oficial do SHELLGREN IA! 
 
 ShellGren é um assistente hacker EM CLI com IA integrada, voz, integração com Telegram, Discord e um banco de conhecimento offline (`qa.txt`).
 
@@ -16,16 +16,19 @@ ShellGren é um assistente hacker EM CLI com IA integrada, voz, integração com
 ![Banner](IMG_20250418_185202.png )
 
 
-Primeira versão em CLI está liberado. 
+## Atenção:
+Para evitar possíveis erros, não faça uma pergunta antes da opção 👤 Eu. 
 
-O modelo está disponível em : CLI, WEB E APK! 
+O modelo está disponível em : CLI, e em breve estará disponível em :WEB E APK! 
 
 ## Funcionalidades
 - Assistente de serviço
+- Tarefas escolares 
 - Execução de comandos
 - Respostas por voz
 - Integração com Telegram & Discord
 - Fallback local via `qa.txt`
+- E é Multitarefa 
 - API 
 
 ## Requisitos Instação via termux
@@ -52,7 +55,7 @@ O arquivo.env deve estar no mesmo diretório
 ```
 nano  env
 ```
-Agora antes de executar mova
+No Linux/MacOS antes de executar mova
 ```
 sudo mv IA.sh /usr/.local/bin/ ShellGren 
 ```
@@ -60,7 +63,7 @@ Agora execute só no Linux/MacOS
 ```
 ShellGren
 ```
-Termux execute após a clonagem e dar permissão de execução  
+No termux execute após a clonagem e dar permissão de execução  
 ```
 IA.sh
 ```
