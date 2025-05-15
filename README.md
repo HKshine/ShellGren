@@ -45,7 +45,7 @@ gem install lolcat
 sudo apt install curl jq espeak figlet toilet ruby - y
 Sudo gem install colcat
 ```
-# clone o repositório 
+# clona 
 ```
 git clone https://github.com/HKshine/ShellGren-.git
 cd ShellGren-
