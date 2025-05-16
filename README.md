@@ -1,4 +1,4 @@
-# BEM-VINDO ao repositório oficial do SHELLGREN IA! 
+# SHELLGREN IA! 
 
 ShellGren é um assistente hacker EM CLI com IA integrada, voz, integração com Telegram, Discord e um banco de conhecimento offline (`qa.txt`).
 
@@ -48,8 +48,8 @@ Sudo gem install lolcat
 ```
 # clona 
 ```
-git clone https://github.com/HKshine/ShellGren-.git
-cd ShellGren-
+git clone https://github.com/HKshine/ShellGre1.git
+cd ShellGren1
 ```
 Da permissão de execução
 ```bash
