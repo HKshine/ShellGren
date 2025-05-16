@@ -60,11 +60,11 @@ Para Linux/MacOS antes de executar mova
 ```
 sudo mv IA.sh /usr/local/bin/ShellGren
 ```
-Agora execute só no Linux/MacOS
+Agora execute, só no Linux/MacOS
 ```
 ShellGren
 ```
-No termux execute após a clonagem e dar permissão de execução  
+Android(termux) execute 
 ```
 IA.sh
 ```
