@@ -19,9 +19,9 @@ Com o decorrer do estudo sobre IA, analisou que rodar uma IA direto na máquina 
 
 ![Banner](IMG_20250418_185202.png )
 
-
 ## Atenção:
 Para evitar possíveis erros, não faça uma pergunta antes da opção
+
 👤 Eu. 
 
 O modelo está disponível em : CLI, e em breve estará disponível em :WEB E APK! 
