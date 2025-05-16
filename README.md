@@ -27,6 +27,7 @@ O modelo está disponível em : CLI, e em breve estará disponível em :WEB E AP
 
 ## Funcionalidades
 - Assistente de serviço
+- pesquisa por imagens, arrasta e cola 
 - Tarefas escolares 
 - Execução de comandos
 - Respostas por voz
@@ -43,7 +44,7 @@ gem install lolcat
 ## Innstalação via Linux/MacOS
 ```
 sudo apt install curl jq espeak figlet toilet ruby - y
-Sudo gem install colcat
+Sudo gem install lolcat
 ```
 # clona 
 ```
@@ -59,7 +60,7 @@ O arquivo.env deve estar no mesmo diretório
 ```
 nano .env
 ```
-No Linux/MacOS antes de executar mova
+Para Linux/MacOS antes de executar mova
 ```
 sudo mv IA.sh /usr/local/bin/ShellGren
 
