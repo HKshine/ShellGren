@@ -55,11 +55,6 @@ Da permissão de execução
 ```bash
 chmod 777 IA.sh
 ```
-Antis de executar Cria um arquivo .env. 
-O arquivo.env deve estar no mesmo diretório
-```
-nano .env
-```
 Para Linux/MacOS antes de executar mova
 ```
 sudo mv IA.sh /usr/local/bin/ShellGren
