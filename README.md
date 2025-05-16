@@ -6,7 +6,7 @@ Com o decorrer do estudo sobre IA, analisou que rodar uma IA direto na máquina 
 
 👉 És o motivo da criação do ShellGren, leve, dinâmico, eficiente, moderno, você vai rodar até em máquina com 1G de RAM.
 
-## O modelo já está disponível!
+![Banner](shellgren.png)
 
 ## Para mais informações acesse:👇
 
@@ -15,9 +15,9 @@ Com o decorrer do estudo sobre IA, analisou que rodar uma IA direto na máquina 
 
 --- 
 
-
-
 ![Banner](IMG_20250418_185202.png )
+
+---
 
 ## Atenção:
 Para evitar possíveis erros, não faça uma pergunta antes da opção
