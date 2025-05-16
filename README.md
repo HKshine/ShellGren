@@ -58,8 +58,6 @@ chmod 777 IA.sh
 Para Linux/MacOS antes de executar mova
 ```
 sudo mv IA.sh /usr/local/bin/ShellGren
-
-sudo mv .env /usr/local/bin/ 
 ```
 Agora execute só no Linux/MacOS
 ```
