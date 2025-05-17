@@ -49,12 +49,12 @@ Sudo gem install lolcat
 ```
 # clona 
 ```
-git clone https://github.com/HKshine/ShellGre1.git
-cd ShellGren1
+git clone https://github.com/HKshine/ShellGre.git
+cd ShellGren
 ```
 Da permissão de execução
 ```bash
-chmod 777 IA.sh
+chmod +x IA.sh
 ```
 Para Linux/MacOS antes de executar mova
 ```
