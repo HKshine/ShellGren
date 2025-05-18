@@ -26,7 +26,7 @@ Para evitar possíveis erros, não faça uma pergunta antes da opção
 
 ## ✍️ Não esquece
 
-E não copia e cola no um prompt, vai dar erro, escreva mesmo ✍️ 
+Não copia e cola no um prompt no Assistente, vai dar erro, escreva mesmo ✍️ 
 
 
 O modelo está disponível em : CLI, e em breve estará disponível em :WEB E APK! 
