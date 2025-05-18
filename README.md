@@ -24,6 +24,11 @@ Para evitar possíveis erros, não faça uma pergunta antes da opção
 
 👤 Eu. 
 
+## ✍️ Não esquece
+
+E não copia e cola no um prompt, vai dar erro, escreva mesmo ✍️ 
+
+
 O modelo está disponível em : CLI, e em breve estará disponível em :WEB E APK! 
 
 ## Funcionalidades
@@ -37,12 +42,12 @@ O modelo está disponível em : CLI, e em breve estará disponível em :WEB E AP
 - E é Multitarefa 
 - API 
 
-## Requisitos Instação via termux
+## Requisitos de instação via termux
 ```bash
 pkg install curl jq espeak figlet toilet ruby -y
 gem install lolcat
 ```
-## Innstalação via Linux/MacOS
+## Requisitos de instalação via Linux/MacOS
 ```
 sudo apt install curl jq espeak figlet toilet ruby - y
 Sudo gem install lolcat
