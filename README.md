@@ -61,10 +61,6 @@ Da permissão de execução
 ```bash
 chmod +x IA.sh
 ```
-Para Linux/MacOS antes de executar mova
-```
-sudo mv IA.sh /usr/local/bin/ShellGren
-```
 Agora execute, só no Linux/MacOS
 ```
 ShellGren
