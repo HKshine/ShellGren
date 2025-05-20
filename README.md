@@ -1,4 +1,13 @@
-# SHELLGREN IA! 
+<p align="center">
+  <img src="ShellGren.png" width="120" alt="ShellGren Logo"/>
+</p>
+
+# SHELLGREN IA
+
+![Versão](https://img.shields.io/badge/release-v1.0.0-blue)
+![PyPi](https://img.shields.io/badge/pypi-%40shellgren-red)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Issues Fechadas](https://img.shields.io/badge/closed%20issues-0-success)
 
 ShellGren é um assistente hacker EM CLI com IA integrada, voz, integração com Telegram, Discord e um banco de conhecimento offline (`qa.txt`).
 
