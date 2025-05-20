@@ -4,8 +4,8 @@
 
 #   SHELLGREN IA
 
-![Versão](https://img.shields.io/badge/release-v1.0.0-blue)
-![PyPi](https://img.shields.io/badge/pypi-%40shellgren-red)
+![Versão](https://img.shields.io/badge/release-v3.3-blue)
+![PyPi](https://img.shields.io/badge/pypi-%40ShellGren-red)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Issues Fechadas](https://img.shields.io/badge/closed%20issues-0-success)
 
