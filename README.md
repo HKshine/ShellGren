@@ -58,7 +58,7 @@ gem install lolcat
 ```
 ## Requisitos de instalação via Linux/MacOS
 ```
-sudo apt install curl jq espeak figlet toilet ruby - y
+sudo apt install curl jq espeak figlet toilet ruby
 sudo gem install lolcat
 ```
 # clona 
